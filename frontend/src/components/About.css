@@ -1,0 +1,15 @@
+.About {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .About h1, .About h2 {
+    color: #333;
+  }
+  
+  .About p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  

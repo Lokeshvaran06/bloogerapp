@@ -1,0 +1,40 @@
+.AddPost {
+  background-color: #c0bbbb;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.AddPost h2 {
+  margin-top: 0;
+}
+
+.AddPost form {
+  display: flex;
+  flex-direction: column;
+}
+
+.AddPost form input,
+.AddPost form textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 1em;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+}
+
+.AddPost form button {
+  padding: 10px;
+  font-size: 1em;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.AddPost form button:hover {
+  background-color: #555;
+}

@@ -1,0 +1,23 @@
+.Navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .Navbar h2 {
+    margin: 0;
+  }
+  
+  .Navbar div a {
+    color: white;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+  
+  .Navbar div a:hover {
+    text-decoration: underline;
+  }
+  
